@@ -1,0 +1,85 @@
+"Environment","Creature","Exp"
+"Arctic","commoner",10
+"Arctic","owl",10
+"Arctic","bandit",25
+"Arctic","blood hawk",25
+"Arctic","kobold",25
+"Arctic","tribal warrior",25
+"Arctic","giant owl",50
+"Arctic","winged kobold",50
+"Arctic","ice mephit",100
+"Arctic","brown bear",200
+"Arctic","half-ogre",200
+"Arctic","bandit captain",450
+"Arctic","berserker",450
+"Arctic","druid",450
+"Arctic","griffon",450
+"Arctic","ogre",450
+"Arctic","orc Eye of Gruumsh",450
+"Arctic","orog",450
+"Arctic","polar bear",450
+"Arctic","saber-toothed tiger",450
+"Arctic","manticore",700
+"Arctic","veteran",700
+"Arctic","winter wolf",700
+"Arctic","yeti",700
+"Arctic","revenant",1800
+"Arctic","troll",1800
+"Arctic","werebear",1800
+"Arctic","young remorhaz",1800
+"Arctic","mammoth",2300
+"Arctic","young white dragon",2300
+"Arctic","frost giant",3900
+"Arctic","abominable yeti",5000
+"Arctic","remorhaz",7200
+"Arctic","roc",7200
+"Arctic","adult white dragon",10000
+"Arctic","ancient white dragon",25000
+"Coastal","commoner",10
+"Coastal","crab",10
+"Coastal","eagle",10
+"Coastal","bandit",25
+"Coastal","blood hawk",25
+"Coastal","giant crab",25
+"Coastal","guard",25
+"Coastal","kobold",25
+"Coastal","merfolk",25
+"Coastal","poisonous snake",25
+"Coastal","stirge",25
+"Coastal","tribal warrior",25
+"Coastal","giant lizard",50
+"Coastal","giant wolf spider",50
+"Coastal","pseudodragon",50
+"Coastal","pteradon",50
+"Coastal","winged kobold",50
+"Coastal","sahuagin",100
+"Coastal","scout",100
+"Coastal","giant eagle",200
+"Coastal","giant toad",200
+"Coastal","harpy",200
+"Coastal","bandit captain",450
+"Coastal","berserker",450
+"Coastal","druid",450
+"Coastal","griffon",450
+"Coastal","ogre",450
+"Coastal","merrow",450
+"Coastal","plesiosaurus",450
+"Coastal","sahugin priestess",450
+"Coastal","sea hag",450
+"Coastal","manticore",700
+"Coastal","veteran",700
+"Coastal","banshee",1100
+"Coastal","sahuagin baron",1800
+"Coastal","water elemental",1800
+"Coastal","cyclops",2300
+"Coastal","young bronze dragon",3900
+"Coastal","young blue dragon",5000
+"Coastal","djinni",7200
+"Coastal","marid",7200
+"Coastal","roc",7200
+"Coastal","storm giant",10000
+"Coastal","adult bronze dragon",13000
+"Coastal","adult blue dragon",15000
+"Coastal","dragon turtle",18000
+"Coastal","ancient bronze dragon",41000
+"Coastal","ancient blue dragon",50000
