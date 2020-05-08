@@ -1,2 +1,2 @@
-# DND
-A D&amp;D random encounter generator
+# DnD encounter generator
+A D&D random encounter generator
